@@ -1,2 +1,3 @@
 # bajajclasses
-Website for tuition.
+Website for Maths and Science Tuition in Chandigarh.
+http://bajajclasses.in/
